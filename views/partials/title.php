@@ -1,0 +1,1 @@
+<h1 class="text-4xl font-bold text-center text-gray-900 mb-8 mt-6"><?=$title?></h1>
